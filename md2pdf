@@ -9,6 +9,3 @@ pandoc --verbose --template="$PWD"/plantilla.latex \
     -o paseos-por-venecia.pdf \
     texto/*.md \
     --toc
-
-
-
