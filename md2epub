@@ -2,9 +2,9 @@
 
 
 
-pandoc  --toc --epub-metadata=../metadata.xml --css=../paseos-por-venecia.css \
+pandoc  --toc --metadata title="Paseos por Venecia" --epub-metadata=../metadata.xml --css=../paseos-por-venecia.css \
        -o paseos-por-venecia.epub ../paseos-por-venecia.txt  *.md
-   
+
 
 
 
