@@ -1,6 +1,6 @@
-# Aprende a programar en Python como si estuvieras en el siglo XXI
+Paseos por Venecia
 
-**Pensamiento computacional a través de la programación funcional usando Python.**
+**Historia, arte, cultura, emociones, acqua alta y puestas de sol**
 
 Por [**JJ Merelo**](http://jj.github.io)
 
