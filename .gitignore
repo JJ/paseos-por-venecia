@@ -280,3 +280,5 @@ TSWLatexianTemp*
 *.pdf
 
 *.epub
+*.html
+*.zip
