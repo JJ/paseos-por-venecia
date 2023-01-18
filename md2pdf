@@ -2,7 +2,7 @@
 
 # Cambia la plantilla de latex al directorio donde esté
 
-pandoc --verbose --template="$PWD"/plantilla.latex \
+pandoc --verbose -V geometry:paperheight=9in -V geometry=paperwidth=6in \
     -V language=spanish -V lang=es-ES \
     -V author='JJ Merelo' -V title='Paseos por Venecia'\
     -V documentclass=book\
