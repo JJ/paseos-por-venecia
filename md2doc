@@ -3,7 +3,7 @@
 
 
 pandoc  -o paseos-por-venecia.docx \
-        --toc --metadata title="Paseos por Venecia" --metadata creator="JJ Merelo" --metadata rights="CC-BY-SA 3.0" \
+        --metadata title="Paseos por Venecia" --metadata creator="JJ Merelo" --metadata rights="CC-BY-SA 3.0" \
         ../paseos-por-venecia.txt  *.md
 
 
