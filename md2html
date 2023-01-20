@@ -2,7 +2,7 @@
 
 
 
-pandoc  -o paseos-por-venecia.epub --standalone  \
+pandoc  -o paseos-por-venecia.xhtml --standalone -e latin1 \
         --toc --metadata title="Paseos por Venecia" --metadata creator="JJ Merelo" --metadata rights="CC-BY-SA 3.0" \
         --css=../paseos-por-venecia.css \
         ../paseos-por-venecia.txt  *.md
