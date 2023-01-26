@@ -283,3 +283,5 @@ TSWLatexianTemp*
 *.html
 *.zip
 *.docx
+
+*.xhtml
