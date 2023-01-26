@@ -9,6 +9,7 @@ epub: paseos-por-venecia.epub
 
 paseos-por-venecia.pdf: $(MDFILES)
 	pandoc --verbose -V geometry:paperheight=9in -V geometry=paperwidth=6in \
+	--pdf-engine=xelatex -V 'fontfamily:fbb'\
     -V language=spanish -V lang=es-ES \
     -V author='JJ Merelo' -V title='Paseos por Venecia'\
     -V documentclass=book\
