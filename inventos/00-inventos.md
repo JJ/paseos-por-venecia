@@ -84,10 +84,6 @@ esporádicamente.
 Sólo en Venecia, con su Arsenale y su inventiva, podía haberse dado este
 hecho. Y así fue.
 
-*En contexto* habrá batallas navales en el palacio de los Dogos. Para
-hartarse. No de esta batalla. También hay un cuarto con armas, y en él varias
-culebrinas, aunque tampoco son tan antiguas. Por supuesto, en el Arsenal.
-
 
 ## Artillería ligera en combate
 
@@ -106,12 +102,6 @@ milaneses/florentinos dijeron que no se diera cuartel a los venecianos por haber
 usado un arma tan poco honorable con la artillería, pues se lo asignamos a los
 venecianos y nos quedamos tan panchos.
 
-*En contexto*: El Arsenal era, evidentemente, también un arsenal; no sólo
-producía navíos de combate y naves comerciales, sino también todo tipo de
-armamento. Al lado de él, además, hay un museo de historia naval donde
-seguramente se podrá aprender mucho más sobre el tema; y digo "seguramente"
-porque todavía no he podido visitarlo.
-
 ## Bancos
 
 Los bancos son un gran invento, o no, que tenemos que agradecerle, o culpar, a
@@ -126,12 +116,6 @@ cámara acabó emitiendo letras de cambio, haciendo préstamos, y haciendo en
 general todo lo que hacen los bancos hoy en día. Cuatro siglos más tarde se
 convirtió oficialmente en el banco central con el nombre Banco del Piazza del
 Rialto. No fue el primer banco central: eso fue invento de los suecos.
-
-*En contexto*: evidentemente, Rialto es el sitio para hablar de esto. Además, a
-la derecha según sale está la cárcel de deudores, una curiosa institución que
-duró un montón de años. El banco era muy serio con sus acreedores, pero también
-con los deudores, a los que se les encerraba en el *palazzo* dei Camarlenghi,
-mencionado en ese capítulo.
 
 ## Biblioteca nacional
 
@@ -154,12 +138,6 @@ publicados en italiano en esa época ha sido por esta razón: el resto de la
 península estaba dividida, y aunque no lo hubiera estado, en pocos lugares
 (salvo en los estados pontificios) había un marco legal tan estable.
 
-*En contexto*: en la *piazzetta San Marco*, enfrente de la Biblioteca
-Marciana. O si decides visitarla, dentro de ella. No se puede acceder a la
-biblioteca en sí, en todo caso, salvo que seas investigador cualificado.
-
-*Mencionado* en el capítulo sobre la susodicha piazzetta.
-
 ## Bienales de arte
 
 Una bienal es un sarao que se celebra cada dos años. Es perfectamente posible
@@ -177,16 +155,6 @@ nadie se le había ocurrido tal cosa. Fue el alcalde quien, posiblemente, había
 visto los ingresos por turismo disminuir desde que Venecia había pertenecido a 4
 o 5 estados diferentes durante el siglo y no quería pillarle el cambio de
 invasor y los cañonazos consiguientes. Puede decirse que tuvo éxito.
-
-*Mencionado* en el capítulo sobre las puestas de sol; ese paseo se queda un poco
-más cerca de los jardines, porque no es cuestión de pasearse por los jardines de
-noche. También en el capítulo sobre Rialto, a cuento de las bienales de arte que
-comenzaron allí.
-
-*En contexto* los *Giardini de la Biennale*, en Castello, es donde mejor se
-puede aprender sobre el tema; el Arsenale también tiene una sección dedicada a
-ella. También se menciona en Rialto, a cuento de los primeros mercados de arte,
-que comenzaron en esa zona.
 
 ## Cafetería
 
@@ -210,11 +178,6 @@ servía café, por lo tanto no exactamente un café creado como tal; hay tambié
 par de lugares en Oxford que también dicen ser más antiguos. Así que es
 enteramente posible que este no haya sido el primer café de Europa. Lo que te
 quitará una razón para dejarte los cuartos tontamente en el sitio.
-
-*Mencionado* en el capítulo dedicado a la *piazza* San Marco.
-
-*En contexto* cuando se hable de café en Venecia, o de café en general. O in
-situ, vamos, en el mismo café. O en el de al lado, no tan caro y casi mejor.
 
 ## Capitalismo
 
@@ -242,13 +205,6 @@ través de herramientas. Y las herramientas se crearon, principalmente, en
 Venecia por parte de Luca Pacioli. Así que tampoco hay que dar muchas vueltas
 para atribuirles también la invención de la idea que generó o lo que sea, el
 capitalismo.
-
-*En contexto*: donde mejor que Rialto. Incluso en el palacio de los Dogos, que
-fueron quienes inventaron el concepto de capitalismo de estado, sería un buen
-sitio; concepto este, por cierto, que también se inventó aquí, al ser el
-gobierno de la ciudad el que impulsaba y a la vez se beneficiaba de los grandes
-proyectos empresariales, sobre todo de construcción naval, iniciaba las *mute* y
-las protegía y avalaba los créditos.
 
 ## Carpaccio
 
@@ -288,11 +244,6 @@ antes el plato que el pintor. Una pena.
 > Tampoco voy a andar de entendido y decir aquí que yo conocía el carpaccio
 > desde que pintaba cuadros en el Renacimiento, porque no es verdad.
 
-*En contexto*: Harry’s Bar está cerca de la piazza San Marco; Carpaccio tiene
-cuadros en la Accademia. Cualquiera de los dos lugares es válido.
-
-*Mencionado en* el capítulo de Dorsoduro, en la visita a la Accademia.
-
 ## Comedias con guión
 
 El que más y el que menos ha participado en algún teatrillo durante la época del
@@ -318,10 +269,6 @@ de cada uno de los personajes estaba escrito de antemano. En 1738 escribió una
 opera con guiones pre-escritos, y un poco más adelante, en 1743, la primera
 comedia, “La donna di garbo”, creada de la misma forma.
 
-*En contexto*: En cualquiera de los teatros, o en el teatro Goldoni.
-
-*Mencionado* en el capítulo sobre teatros.
-
 ## Cuerpo diplomático
 
 El cuerpo diplomático es el encargado de representar a un país ante un estado
@@ -340,10 +287,6 @@ por las *relazioni* o informes de los mismos al Senado, que o se filtraban o
 directamente se publicaban, informes completos de un país con los que Venecia
 podría tener relaciones pacíficas, estar en guerra o las dos cosas a la vez.
 
-*En contexto*: en casi cualquier palacio habrá habido alguien de la familia que
-haya sido embajador; los patricios copaban estos puestos, como cualquier
-otro. También en el palacio de los Dogos, como es natural, donde se producían
-los nombramientos de estos embajadores.
 
 
 ## El Excel
@@ -386,11 +329,6 @@ raza judía en Venecia, y posiblemente codificó una práctica que se usaba en
 Venecia desde tiempo atrás. Pacioli, una personalidad interesantísima en todos
 los aspectos, fue más un *influencer* que un inventor. Porque la verdadera
 inventora fue Venecia.
-
-*Mencionado* en el paseo de San Marco a Punta Dogana.
-
-*En contexto* posiblemente en el primer *ghetto*, donde seguramente estaría
-establecido el empleador de Pacioli en Venecia.
 
 ## Cristal transparente
 
@@ -463,9 +401,6 @@ encuentran en un monasterio en Treviso, que por aquel entonces era parte de la
 república. Las patillas, sin embargo, no se empezaron a usar hasta el siglo
 XVIII.
 
-*En contexto*: posiblemente, en Murano. También en la Accademia hay pinturas del
-siglo XIV y XV donde se pueden ver personajes con gafas.
-
 ## Gafas de sol
 
 También son gafas, como el apartado anterior, pero en este caso se trata de
@@ -484,9 +419,6 @@ protectores laterales, y se conservan una docena de pares en todo el mundo,
 objetos de coleccionista de gran valor; en la biblioteca marciana también se
 muestran unas gafas del dogo Alvise IV Mocenigo, uno de los últimos, con una
 funda con su escudo.
-
-*En contexto* o cuando se hable de Goldoni, o de Murano, o de los
-gondoleros. Cualquiera de ellos me sirve.
 
 ## Infantería de marina
 
@@ -529,16 +461,6 @@ en abundancia, buscando la venganza de uno de sus comandantes,
 Bragadin, que había sido masacrado de forma indigna por los otomanos
 en el asedio de Chipre.
 
-*En contexto* a los *fanti* se les reclutaba tanto en *terraferma*
-como en *oltramare*, pero muchos de ellos eran *schiavoni*, así que el
-sitio sería en la *riva* de ese nombre. Pero también deben aparecer en
-los cuadros sobre Lepanto en el palacio de los dogos. Igual se les
-puede reconocer con la chaqueta azul y camisa roja.
-
-*Mencionado* en el capítulo que va por la ribera de la Laguna hacia la
-puesta de sol.
-
-
 ## Tipo de letra itálica
 
 Hoy en día más que tipo de trata de un aspecto de la letra, igual que
@@ -560,15 +482,6 @@ modo (un tipo de letra se puede expresar en cursiva/itálica o
 negrita); el nombre no se lo puso él (le puso *aldina*, claro está),
 pero al copiarse el tipo en otros países se le denominó *itálica* por
 su origen.
-
-*En contexto* es difícil situarlo; es muy posible que la guía
-turística (la otra, la que uses de verdad) tenga cosas en cursiva. En
-esta misma frase, *en contexto* está en cursiva, así que cuando todo
-el mundo se quede callado en un momento en tu paseo por Venecia, lo
-sueltas así como quien no quiere la cosa.
-
-*Mencionado en* este capítulo, un montón de veces. Si vamos a tener
-que titularlo el capítulo de Manuzio y otros mendas.
 
 ## Leyes "Mickey Mouse"
 
@@ -658,12 +571,6 @@ se le añadió un material que mantuviera la trama por detrás, un
 bastidor para mantenerlo estirado, y hete aquí los lienzos tal como
 los conocemos hoy en día (aunque actualmente se usa algodón o fibras
 sintéticas, en vez de lino).
-
-*En contexto*: el mejor lugar es, probablemente, las Gallerie
-dell’Accademia, donde se podrá ver la transición de tabla a lienzo
-fácilmente. También en San Barnaba, una iglesia cuyo techo está
-recubierto de pinturas en lienzo, demostrando la facilidad, que no
-tenían las tablas, de crear pinturas de gran tamaño.
 
 ## Mapamundi (o planisferio)
 
@@ -766,13 +673,6 @@ el mundo. Pero quizás, en el culmen de su poder, pensaron que nada ni
 nadie les podía superar. Y, con este mapa, pusieron las semillas de su
 destrucción.
 
-*En contexto* tanto en la isla/cementerio de San Michele como en la
-Biblioteca Marciana, donde hay expuesta una de las copias que se
-conservan (aunque la Wikipedia española dice que está en el
-Vaticano).
-
-*Mencionado* en el capítulo dedicado al cementerio.
-
 ## OSINT, *Open Source Intelligence*
 
 Esto no me lo esperaba ni yo, pero parece que hay varios indicios que
@@ -810,25 +710,11 @@ incluyendo información política, militar, y de todo
 tipo. Eventualmente, la información que las diferentes instituciones
 venecianas poseían no tenía paragón en ningún lugar en Europa.
 
-*En contexto*: tanto en Rialto como en el palacio de los dogos tiene
-relevancia; en realidad los intereses comerciales y los políticos
-siempre estuvieron más cerca que el cuarto de hora que se tarda en
-llegar de uno a otro.
-
-*Mencionado* de forma oblicua, en el capítulo de Rialto, aunque la
-referencia era más bien a la inteligencia de fuentes cerradas, la de
-toda la vida, vamos.
-
 ## Polifonía multicoral
 
 Nadie, nunca, ha oído hablar de esto. Así que lo dejamos aquí y
 redirijo al capítulo correspondiente.
 
-*En contexto*: en la basílica de San Marco, que al parecer, por la
-posición del púlpito y del iconostasio, favorecía la sonoridad de este
-tipo de música.
-
-*Mencionado en* el capítulo sobre teatros.
 
 ## Pinturas de paisajes
 
@@ -867,12 +753,6 @@ poco, la verdad. Es difícil que seas aficionado a este autor (pero
 todo puede ser), pero lo seas o no, merece la pena que te pares un
 poco en tu visita a la Accademia.
 
-*En contexto*: cerca de la Accademia, el puente del mismo nombre, o
-dentro de las galerías, o en general en la zona de Dorsoduro.
-
-*Mencionado* en capítulo en el que se pasea de San Marco a la Punta
-Dogana, en las Gallerie dell’Accademia.
-
 ## El punto y coma
 
 ¿Cómo es que siquiera se puede *inventar* el punto y coma? ¿No ha
@@ -898,19 +778,6 @@ tipos de letra (el contador) esculpieron, supongo que en madera en
 aquella época, este símbolo tipográfico que fue a ilustrar un tratado
 de Bembo sobre el monte Etna (que todavía está disponible en formato
 electrónico, por si a alguien le interesa).
-
-*En contexto* la imprenta de Manuzio estaba en el barrio de San Polo,
-donde ahora hay un restaurante que se llama *Due Colonne* en la Calle
-della Chiesa. Pero estos
-paseos no nos llevan mucho por San Polo, desgraciadamente, así que si
-caes cerca del Ponte delle Tette o del Campo San Polo, puede ser una
-ocasión para hablar de esto (vale, también de las Tette
-susodichas). El palacio Bembo está en el Gran Canal, así que puede
-hablarse de él si se pasa por ahí en góndola o como sea menester.
-
-*Mencionado en* el capítulo de historia retrógrada de Venecia se
-menciona el palacio Bembo, una de las familias aristocráticas de
-rancio abolengo.
 
 ## Primas de seguro
 
@@ -946,8 +813,6 @@ dedicado al tema, Venecia cedió la posición de pioneros a Génova, donde se ha
 el primer contrato de seguro, e incluso a Barcelona, donde el Edicto del mismo
 nombre fue la primera legislación sobre el tema.
 
-*En contexto* este consulado se halla en el palacio de los camarlengos, en
-Rialto, así que es el sitio adecuado para hablar del tema.
 
 ## Servicios de inteligencia estatales
 
@@ -966,14 +831,6 @@ proceso de toma de decisión específico, y por supuesto actuar al respecto.
 bizantina como tal servicio de inteligencia, era más bien un servicio de
 contraespionaje que evidentemente recolectaba información referida a los
 extranjeros (o bárbaros).
-
-*Mencionados* principalmente en el [capítulo sobre Rialto](06.Hacia-Rialto.md) y
-también donde se habla de [Cannaregio](08.Cannaregio.md)
-
-*En contexto*: un buen sitio para referirse a esto es cuando se visite la calle
-de la Lista di Spagna, ya que se era donde se encontraba la embajada española, y
-también otras embajadas, en lugares próximos para que fueran más fáciles de
-controlar por tal servicio.
 
 ## Spritz
 
@@ -1001,14 +858,6 @@ de colonizador (el imperio austrohúngaro, colonizador donde los haya) y
 colonizados (Venecia y el norte de Italia). El mismo espíritu que, más o menos,
 creó el Cuba Libre (que es ron con Coca Cola). ¿Estamos diciendo que Venecia
 inventó el Cuba libre? No sé, cada cuál que decida.
-
-*Mencionado* en el [capítulo sobre Cannaregio](08.Cannaregio.md).
-
-*En contexto*: te puedes comprar Aperol o Select en un supermercado y mezclarlo
-tú mismo con gaseosa y sidra; así que puede ser una oportunidad de comentar el
-precio de la hostelería en Venecia cuando pases por el Harry's o cualquiera de
-esos bares de San Marco. En general, sin embargo, acércate a cualquier taberna
-de *cicchetti* y pídetelo, por supuesto usando Select en vez de Aperol.
 
 ## Teatro (de pago)
 
@@ -1041,13 +890,6 @@ puede inventar todo.
 
 ¿La primera ópera de pago? Sí, también en Venecia.
 
-*Mencionado* en el paseo por los teatros de Venecia.
-
-*En contexto* el primer teatro, o palacio alquilado como tal, se creó en la zona
-de San Cassiano, cerca de Rialto. Por supuesto que una visita a uno de los
-principales teatros, La Fenice, también puede ser una buena oportunidad para
-contar esta bonita historia.
-
 ## Terrazo
 
 El terrazo era el pavimento que se usaba, sin excepción, en casi todas las casas
@@ -1074,7 +916,7 @@ Hoy en día el terrazo usa todo tipo de materiales, desde cemento hasta resina
 epoxy, y combina también múltiples "tropezones", desde vidrio hasta piedras de
 diferentes orígenes.
 
-*En contexto*: se usa en los soportales del palacio ducal, donde se pusieron en
+Se usa en los soportales del palacio ducal, donde se pusieron en
 2014 por parte de los hermanos Vianello, restauradores locales.
 
 ## Vacaciones pagadas por el empleador
@@ -1095,7 +937,3 @@ aún muy limitadas y sólo a un gremio, los venecianos inventaron un concepto qu
 aún no ha llegado a sitios como Estados Unidos. O más bien ha llegado como en
 Venecia, depende un poco de la empresa, pero el estado no obliga ni a esto ni a
 pagar las bajas por embarazo ni nada de eso.
-
-*En contexto*: si visitas alguna fábrica de cristal de Murano, es el momento;
-nada más bajarte del vaporetto verás a una serie de personas que te dirigen
-hacia la izquierda, que es donde se encuentran.
