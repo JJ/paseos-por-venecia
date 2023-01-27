@@ -285,3 +285,7 @@ TSWLatexianTemp*
 *.docx
 
 *.xhtml
+
+.DS_Store
+
+**/KPF/
