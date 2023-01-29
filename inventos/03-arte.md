@@ -1,5 +1,10 @@
 # El arte del arte
 
+Italia, en general, es la cuna del Renacimiento. Pero Venecia sería, junto con
+Florencia y Roma, donde se generaron más innovaciones en el lenguaje pictórico y
+también en los soportes que se usaron.
+
+Y luego está la polifonía multicoral.
 
 ## Bienales de arte
 
