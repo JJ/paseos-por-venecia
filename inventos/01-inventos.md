@@ -384,6 +384,9 @@ colonizados (Venecia y el norte de Italia). El mismo espíritu que, más o menos
 creó el Cuba Libre (que es ron con Coca Cola). ¿Estamos diciendo que Venecia
 inventó el Cuba libre? No sé, cada cuál que decida.
 
+Hoy en día se usa *prosecco* en vez de simple vino blanco. Por qué alguien
+querría amargar el *prosecco* de esta forma, también se me escapa.
+
 ## Teatro (de pago)
 
 Los venecianos eran mercaderes, y tenían una clase media considerable, así que
