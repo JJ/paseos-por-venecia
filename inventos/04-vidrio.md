@@ -6,6 +6,23 @@ durante siglos, uno de los productos estrella con denominación de origen en la
 laguna. No se puede subestimar la cantidad de tecnología invertida en los
 mismos, así que en este capítulo intentaremos ponerlo en contexto.
 
+Para empezar, vamos a usar la palabra "vidrio" en vez de "cristal", y dejar esta
+última para los compuestos químicos que se han solidificado con una estructura
+regular, como el cuarzo o la sal. Esto nos va a ayudar a entender mejor el
+origen de lo que hoy llamamos "cristal" (que no es más que vidrio transparente)
+y el vidrio, en general. Vidrio que se obtiene por un proceso químico que
+incluye el sílice (un óxido de silicio, un compuesto químico con el que también
+se hacen los chips de los ordenadores), carbonato de socio (que viene a ser una
+sal, como la sal habitual, que es un cloruro de sodio) y la caliza (un carbonato
+de calcio). Todos estos son, de por sí, cristales, pero al mezclarlos y
+someterlos a altas temperaturas en un horno, la estructura cristalina se
+destruye y los átomos de los diferentes compuestos, carbono, silicio, sodio,
+calcio, y quizás potasio y otros elementos como plomo, se reorganizan de tal
+forma que absorben la luz con un color determinado (y aparecen de tal color) o
+no absorben ninguna, de forma que aparecen transparentes.
+
+El que esto sucediera en Murano no fue casualidad.
+
 ## Cristal transparente
 
 El cristal, o vidrio, no lo inventaron los venecianos, se conocía
