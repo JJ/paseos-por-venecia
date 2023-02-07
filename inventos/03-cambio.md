@@ -122,3 +122,7 @@ En todo caso, salvo ese hecho puntual y el que tuvieran un magistrado específic
 dedicado al tema, Venecia cedió la posición de pioneros a Génova, donde se halla
 el primer contrato de seguro, e incluso a Barcelona, donde el Edicto del mismo
 nombre fue la primera legislación sobre el tema.
+
+## Bonos del gobierno
+
+Un bono es un préstamo al gobierno, que devuelve la cantidad prestada en un plazo fijo y con un cierto incremento. Los bonos son préstamos frente a futuros ingresos del gobierno, y permiten al mismo financiar políticas a corto plazo… O guerras.
