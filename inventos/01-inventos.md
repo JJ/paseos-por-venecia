@@ -1,3 +1,8 @@
+## Patentes
+
+En una patente se concede al inventor derechos exclusivos sobre la explotación de la misma, en atención a su novedad o a su utilidad. Hoy en día las patentes son algo habitual, con oficinas de patentes a nivel nacional y supranacional, europeo, por ejemplo.
+
+No es de extrañar que el lugar que fue el centro de la innovación artesanal e industrial al final de la Edad Media, ya sabéis, Venecia, creara el que fuera posiblemente el primer registro de patentes que ha existido en Europa Occidental, y posiblemente del mundo.
 
 ## Biblioteca nacional
 
