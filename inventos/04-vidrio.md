@@ -21,7 +21,10 @@ calcio, y quizás potasio y otros elementos como plomo, se reorganizan de tal
 forma que absorben la luz con un color determinado (y aparecen de tal color) o
 no absorben ninguna, de forma que aparecen transparentes.
 
-El que esto sucediera en Murano no fue casualidad.
+El que esto sucediera en Murano no fue casualidad. Para que quede claro, el
+vidrio no lo inventaron los venecianos, ni en Venecia; tiene más de tres mil
+años, y ya se usaba en el antiguo Egipto, en Grecia y en Roma, principalmente
+como joyas o con objetos de pequeño tamaño.
 
 ## Cristal transparente
 
