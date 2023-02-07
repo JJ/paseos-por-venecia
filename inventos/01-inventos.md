@@ -228,10 +228,6 @@ o libros portátiles (en latín), llamados por él "libros de mano" o *enchiridi
 podían sujetarse con la mano mientras se leían. Un gran invento, que le dio
 éxito y fortuna a su creador.
 
-*En contexto*: hay muchísimas librerías en Venecia, pero prácticamente ninguna
-imprenta tradicional. Quizás venga más a cuento en la Biblioteca Marciana, justo
-enfrente del palacio de los Dogos, que conserva muchos ejemplares de esta imprenta.
-
 ## Mapamundi (o planisferio)
 
 Un *mappa mundi*, o mapa del mundo, mete, en una sola hoja, todo el
