@@ -67,16 +67,17 @@ XVIII.
 
 ## Gafas de sol
 
-También son gafas, como el apartado anterior, pero en este caso se trata de
-gafas con cierta protección para que se puedan usar en el exterior, donde con
-abundancia de rayos solares. Pues bien, os habréis fijado probablemente que
-muchos de los gondoleros llevan gafas de sol; no sólo trabajan al aire libre,
-sino que también están expuestos a los reflejos de los rayos del sol en los
-canales por los que circulan. Para ellos se introdujeron en Venecia las llamadas
-*occhiali da Gondola*, o gafas de góndola, con cristales tintados de color
-verde, a veces deformado a *occhiali alla Goldoni*, por alguna razón que se me
-escapa. Por supuesto, fueron los hornos de Murano los que produjeron este tipo
-de lentes, que desde entonces se usan de forma habitual en todo el mundo.
+Seguimos hablando de gafas como en la sección anterior, pero en este caso se
+trata de anteojos con cierta protección ante la luminosidad excesiva para que se
+puedan usar en el exterior, donde con abundancia de rayos solares. Pues bien, os
+habréis fijado probablemente que muchos de los gondoleros llevan gafas de sol;
+no sólo trabajan al aire libre, sino que también están expuestos a los reflejos
+de los rayos del sol en los canales por los que circulan. Para ellos se
+introdujeron en Venecia las llamadas *occhiali da Gondola*, o gafas de góndola,
+con cristales tintados de color verde, a veces deformado a *occhiali alla
+Goldoni*, por alguna razón que se me escapa. Por supuesto, fueron los hornos de
+Murano los que produjeron este tipo de lentes, que desde entonces se usan de
+forma habitual en todo el mundo.
 
 Estos *occhiali alla Goldoni*, de hecho, tenían también unos pequeños
 protectores laterales, y se conservan una docena de pares en todo el mundo,
