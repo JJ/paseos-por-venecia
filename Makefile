@@ -1,5 +1,5 @@
 
-MDFILES = $(wildcard texto/*.md)
+MDFILES = $(sort $(wildcard texto/*.md))
 CALMAMDFILES = $(filter-out texto/15.Idioma.md texto/16.Inventos.md, $(MDFILES))
 INVMDFILES = $(wildcard inventos/*.md)
 ALLFILES = $(MDFILES)  $(wildcard *.txt) $(wildcard *.css)
@@ -30,7 +30,7 @@ inventos-de-venecia.pdf: $(INVMDFILES)
 
 
 venecia-con-calma.pdf : $(CALMAMDFILES)
-		pandoc --verbose -V geometry:paperheight=9in -V geometry=paperwidth=6in \
+	pandoc  -V geometry:paperheight=9in -V geometry=paperwidth=6in \
 	--pdf-engine=xelatex -V 'fontfamily:fbb'\
     -V language=spanish -V lang=es-ES \
     -V author='JJ Merelo' -V title='Venecia con calma'\
