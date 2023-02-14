@@ -23,7 +23,7 @@ mira, si colaba, colaba) sino de abordarlos y llevar la pelea hasta allí, y
 eventualmente capturar barco, tripulación (que luego venderían como esclavos, o
 si se trataba de la oficialidad, tratarían de aprovechar solicitando un rescate
 por ellos) y lo que hubiera menester (la propia nave, los remos y hasta las
-velas de dar luz y las otras). Así fue la batalla se Salamina y hasta batallas
+velas de dar luz y las otras). Así fue la batalla de Salamina y hasta batallas
 mucho más modernas, como la muy mencionada de Lepanto, procedían de la misma
 manera; por eso en las pinturas se ven abigarradas de gente y barcos unos tan
 cerca de otros; el que se usara artillería de forma ocasional no quitaba que se
@@ -116,12 +116,11 @@ apuntan a que, igual que los servicios de inteligencia centralizados
 se inventaron aquí, también la recolección de informes de inteligencia
 procedentes de fuentes abiertas, también.
 
-De eso se trata el OS, o “inteligencia de fuentes
-abiertas”. Simplemente se trata de recopilar información que no está
-oculta, pero requiere de algún trabajo para recogerla o simplemente
-saber donde está. Ahora, con la guerra de Ucrania, está teniendo una
-edad de oro, con gente que usa desde satélites de la NASA para
-detectar incendios hasta grupos de Telegram de propagandistas rusos.
+De eso se trata la OSInt, o “inteligencia de fuentes abiertas”. Simplemente se
+trata de recopilar información que no está oculta, pero requiere de algún
+trabajo para recogerla o simplemente saber donde está. Ahora, con la guerra de
+Ucrania, está teniendo una edad de oro, con gente que usa desde satélites de la
+NASA para detectar incendios hasta grupos de Telegram de propagandistas rusos.
 
 En Venecia fue, inicialmente, la información comercial, en la que
 también la república de Ragusa, anterior colonia y en ese momento
