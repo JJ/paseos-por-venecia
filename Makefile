@@ -31,7 +31,7 @@ inventos-de-venecia.pdf: $(INVMDFILES)
 
 venecia-con-calma.pdf : $(CALMAMDFILES)
 	pandoc  -V geometry:paperheight=9in -V geometry=paperwidth=6in \
-	--pdf-engine=xelatex -V 'fontfamily:fbb'\
+	--pdf-engine=xelatex\
     -V language=spanish -V lang=es-ES \
     -V author='JJ Merelo' -V title='Venecia con calma'\
     -V documentclass=book\
