@@ -95,7 +95,7 @@ inventora fue Venecia.
 ## Primas de seguro
 
 Posiblemente, si habéis estado practicando el *adulting*, sabréis que una prima
-se seguro es una pequeña cantidad que se paga para "asegurar" recibir una
+de seguro es una pequeña cantidad que se paga para "asegurar" recibir una
 cantidad sustancialmente mayor si un riesgo determinado (lo que se asegura),
 sucede eventualmente. Puedes pagar unos cuantos euros para asegurar recibir el
 precio total de tu viaje en caso de cancelación, por ejemplo, o una cantidad

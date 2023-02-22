@@ -1,8 +1,14 @@
 ## Patentes
 
-En una patente se concede al inventor derechos exclusivos sobre la explotación de la misma, en atención a su novedad o a su utilidad. Hoy en día las patentes son algo habitual, con oficinas de patentes a nivel nacional y supranacional, europeo, por ejemplo.
+En una patente se concede al inventor derechos exclusivos sobre la explotación
+de la misma, en atención a su novedad o a su utilidad. Hoy en día las patentes
+son algo habitual, con oficinas de patentes a nivel nacional y supranacional,
+europeo, por ejemplo.
 
-No es de extrañar que el lugar que fue el centro de la innovación artesanal e industrial al final de la Edad Media, ya sabéis, Venecia, creara el que fuera posiblemente el primer registro de patentes que ha existido en Europa Occidental, y posiblemente del mundo.
+No es de extrañar que el lugar que fue el centro de la innovación artesanal e
+industrial al final de la Edad Media, ya sabéis, Venecia, creara el que fuera
+posiblemente el primer registro de patentes que ha existido en Europa
+Occidental, y posiblemente del mundo.
 
 ## Biblioteca nacional
 
@@ -89,7 +95,7 @@ del mismo.
 
 ## Tipo de letra itálica
 
-Hoy en día más que tipo de trata de un aspecto de la letra, igual que
+Hoy en día más que tipo se trata de un aspecto de la letra, igual que
 la negrita; la itálica o cursiva es esa letra inclinada que, según la
 guía de estilo de la que se trate, se usa para definiciones o para
 palabras extranjeras.
@@ -157,7 +163,7 @@ cuando en toda Europa las guerras de religión hacían que contar lo que uno
 pensaba te pudiera costar el pellejo.
 
 Dada la cantidad de griegos, huidos de la caída de Bizancio, que por aquella
-época había allí, a mesr. Manuzio se le ocurrió publicar libros en un formato
+época había allí, a *micer* Manuzio se le ocurrió publicar libros en un formato
 manejable, con las páginas en "octava", o sea, del tamaño de medio folio. Estas
 ediciones, que vienen a ser del tamaño que hoy llamamos "de bolsillo", se
 llamaron ediciones "aldinas", y se las quitaban de las manos la burguesía
@@ -190,7 +196,7 @@ Y fue un fraile, Fra Mauro, quien entre 1457 y 1459 lo dibujó,
 mientras estaba en el convento de san Michele, donde ahora está el
 cementerio, con la ayuda de un cartógrafo veneciano, Andrea Bianco. Se
 lo había encargado por el rey Alfonso V de Portugal. Para que nos
-situemos un poco, estamos pasarían unos treinta años hasta que Colón
+situemos un poco, pasarían unos treinta años hasta que Colón
 propusiera el viaje a "Cipango" a Isabel la Católica, pero muy pocos
 años hasta que los portugueses se lanzaran a la explotación de
 "Guinea", que iba desde la actual Ghana, hacia el sur, por toda África
