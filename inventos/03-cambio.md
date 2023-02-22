@@ -23,6 +23,8 @@ El que llamaran bancos viene del hecho de que los cambistas y los que extendían
 
 Los bancos eran, pues, el lugar y el símbolo de los banqueros; por eso la *bancarrota* se producía cuando no eran capaces de responder a los créditos: los funcionarios llegaban al “establecimiento” y lo destrozaban con hachas. Así todo el mundo sabía que ese banco estaba roto: en bancarrota.
 
+> En lo que no hay unanimidad es que el origen del término o del concepto estuviera ahí en Venecia. De hecho, lo he empezado a buscar a partir de un post en Instagram que lo atribuía a Bolonia; también hay quien se lo atribuye a Génova y estoy casi seguro que a Florencia o Pisa también. La candidatura de Venecia es bastante plausible, sin embargo.
+
 ## Capitalismo
 
 Hala, uno que llegó aquí pensando escuchar que en Venecia se inventaron los
