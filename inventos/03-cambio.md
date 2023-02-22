@@ -7,8 +7,8 @@ mismos bancos.
 ## Bancos
 
 Los bancos son un gran invento, o no, que tenemos que agradecerle, o culpar, a
-Venecia; de hecho, no sólo es el primer banco, sino el primer banco *central* o
-banco estatal y de emisión de moneda, porque empezó con las necesidades de
+Venecia; de hecho, no sólo el primer banco tiene origen allí, sino el primer banco *central* o
+banco de propiedad, y con garantía, estatal y de emisión de moneda, porque empezó con las necesidades de
 dinero de la República a finales del siglo XII, forzando a los nobles y
 comerciantes a realizarle préstamos, que registraban y a cambio de los cuales se
 emitían bonos. Pero estos bonos acabaron, por un lado, siendo negociados en el
@@ -17,8 +17,11 @@ dinero en este banco, que se llamaba simplemente la cámara de préstamos; esta
 cámara acabó emitiendo letras de cambio, haciendo préstamos, y haciendo en
 general todo lo que hacen los bancos hoy en día. Cuatro siglos más tarde se
 convirtió oficialmente en el banco central con el nombre Banco del Piazza del
-Rialto. No fue el primer banco central: eso fue invento de los suecos.
+Rialto. No está claro, por cierto, que fuera el primer banco central: también los suecos afirman haber creado el primero.
 
+El que llamaran bancos viene del hecho de que los cambistas y los que extendían cartas de crédito, se sentaban en bancos en el porche de San Giacomo, en las cercanías de Rialto; de hecho, según se sale del puente de Rialto alejándonos de San Marco, está justo pasado el palacio de los Camarlengos, a la izquierda. El Rialto, como concepto, donde se conocen las noticias de puertos lejanos, estuvo ahí, realmente; hoy lo situamos en el puente, que en su forma actual en realidad es muy posterior, del siglo XVI.
+
+Los bancos eran, pues, el lugar y el símbolo de los banqueros; por eso la *bancarrota* se producía cuando no eran capaces de responder a los créditos: los funcionarios llegaban al “establecimiento” y lo destrozaban con hachas. Así todo el mundo sabía que ese banco estaba roto: en bancarrota.
 
 ## Capitalismo
 
