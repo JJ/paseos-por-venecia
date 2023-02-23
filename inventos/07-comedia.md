@@ -1,11 +1,12 @@
 # La comedia del arte
 
-Ya sabemos que *arte* significa *oficio*; la *commedia dell'arte* es, en
-realidad, comedia realizada por profesionales. Este tipo de representación fue,
-durante mucho tiempo, el tipo de actuación en los teatros, por su
-espontaneidad. Por eso en este capítulo trataremos de la comedia, y por
-extensión el teatro y otras representaciones como la ópera, como profesión y
-actividad económica. Que, evidentemente, tuvo su origen en Venecia.
+Ya sabemos que *arte* en el contexto de la Italia medieval, significa *oficio*;
+la *commedia dell'arte* es, en realidad, comedia realizada por
+profesionales. Este tipo de representación fue, durante mucho tiempo, el tipo de
+actuación en los teatros, por su espontaneidad. Por eso en este capítulo
+trataremos de la comedia, y por extensión el teatro y otras representaciones
+como la ópera, como profesión y actividad económica. Que, evidentemente, tuvo su
+origen en Venecia.
 
 ## Comedias con guión
 
