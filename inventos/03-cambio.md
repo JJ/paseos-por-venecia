@@ -1,5 +1,13 @@
 # El arte del cambio
 
+Ya hemos indicado que "arte" era el nombre que recibían los gremios o
+corporaciones dedicadas a diferentes oficios. El *arte del cambio* era el gremio
+de los cambistas y banqueros... En Florencia. Entre la lista de gremios
+venecianos, no hay ni uno dedicado específicamente a este tipo de labores. Igual
+para bien, porque los Medici fueron los que controlaron ese *arte* y, a partir
+de él, las malas artes de control del gobierno de la ciudad, la Toscana, y toda
+la parte de Italia que les dejaran.
+
 Siendo sobre todo una potencia comercial, no es de extrañar la
 innovación proveniente de los productos bancarios. Empezando por los
 mismos bancos.
@@ -19,9 +27,18 @@ general todo lo que hacen los bancos hoy en día. Cuatro siglos más tarde se
 convirtió oficialmente en el banco central con el nombre Banco del Piazza del
 Rialto. No está claro, por cierto, que fuera el primer banco central: también los suecos afirman haber creado el primero.
 
-El que llamaran bancos viene del hecho de que los cambistas y los que extendían cartas de crédito, se sentaban en bancos en el porche de San Giacomo, en las cercanías de Rialto; de hecho, según se sale del puente de Rialto alejándonos de San Marco, está justo pasado el palacio de los Camarlengos, a la izquierda. El Rialto, como concepto, donde se conocen las noticias de puertos lejanos, estuvo ahí, realmente; hoy lo situamos en el puente, que en su forma actual en realidad es muy posterior, del siglo XVI.
+El que llamaran bancos viene del hecho de que los cambistas y los que extendían
+cartas de crédito, se sentaban en bancos en el porche de San Giacomo, en las
+cercanías de Rialto; de hecho, según se sale del puente de Rialto alejándonos de
+San Marco, está justo pasado el palacio de los Camarlengos, a la izquierda. El
+Rialto, como concepto, donde se conocen las noticias de puertos lejanos, estuvo
+ahí, realmente; hoy lo situamos en el puente, que en su forma actual en realidad
+es muy posterior, del siglo XVI.
 
-Los bancos eran, pues, el lugar y el símbolo de los banqueros; por eso la *bancarrota* se producía cuando no eran capaces de responder a los créditos: los funcionarios llegaban al “establecimiento” y lo destrozaban con hachas. Así todo el mundo sabía que ese banco estaba roto: en bancarrota.
+Los bancos eran, pues, el lugar y el símbolo de los banqueros; por eso la
+*bancarrota* se producía cuando no eran capaces de responder a los créditos: los
+funcionarios llegaban al “establecimiento” y lo destrozaban con hachas. Así todo
+el mundo sabía que ese banco estaba roto: en bancarrota.
 
 > En lo que no hay unanimidad es que el origen del término o del concepto
 > estuviera ahí en Venecia. De hecho, lo he empezado a buscar a partir de una
