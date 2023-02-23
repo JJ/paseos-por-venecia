@@ -8,6 +8,30 @@ para bien, porque los Medici fueron los que controlaron ese *arte* y, a partir
 de él, las malas artes de control del gobierno de la ciudad, la Toscana, y toda
 la parte de Italia que les dejaran.
 
+El hecho de que el arte del título se basara en Florencia refleja también una de
+las principales cuestiones de este capítulo: todas las innovaciones relativas al
+dinero y el comercio se atribuyen tanto a Venecia como, en general, a las
+repúblicas del norte de Italia: Pisa, Florencia, Génova, Bolonia, e incluso
+Ragusa/Dubrovnik, que era *casi* una de las repúblicas marítimas "italianas",
+aunque situada en Croacia, en el lado oriental del Adriático. En general, hay
+buenas razones para situar en Venecia el inicio de los bancos, seguros,
+contabilidad de partida doble y en general, el capitalismo; pero también es
+posible que sea simplemente porque los archivos venecianos, al ser un estado más
+duradero, estén mejor conservados, o simplemente porque Venecia fue también
+pionera en el arte de la autopromoción, algo que le faltó a las otras repúblicas
+mencionadas.
+
+El hecho de que no hubiera un "arte del cambio" en Venecia, sin embargo, no
+tiene la mayor importancia, como no lo había de los propietarios de casas de
+juego ni de prostíbulos. Los *arti* venecianos iban siempre asociados a
+*scuole*, que eran a la vez escuelas gremiales y cofradías con devoción a algún
+santo y sede en alguna capilla, y la usura estaba prohibida por la iglesia
+católica. Los venecianos, con su pragmatismo habitual, evitaron evidenciar la
+práctica con una corporación ocultándola a plena vista: en el *arte* dedicada a
+los comerciantes y mercaderes; a la vez, usaron definiciones flexibles de la
+palabra *usura* cambiando el monto del interés a partir del cual se consideraría
+tal.
+
 Siendo sobre todo una potencia comercial, no es de extrañar la
 innovación proveniente de los productos bancarios. Empezando por los
 mismos bancos.
