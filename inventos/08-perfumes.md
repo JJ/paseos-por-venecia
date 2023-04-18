@@ -6,3 +6,5 @@ introdujera, posiblemente por primera vez, la fabricación de perfumes.
 
 La creación de perfumes la llevaban a cabo los *muschieri*, o manipuladores del
 almizcle, el extracto de las glándulas de las ratas de almizcle.
+
+El primer libro publicado, con más de 300 recetas, se publicó en Venecia, claro.
